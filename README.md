@@ -3,9 +3,9 @@ CREAZIONE DI UN MOTORE DI RICERCA CON L’UTILIZZO DELLA LIBRERIA LUCENE**
 
 _Requisiti:_
 
-Java 23 
+Java 23, 
 
-IDE: IntelliJ
+IDE IntelliJ
 
 **Configurazione**
 
